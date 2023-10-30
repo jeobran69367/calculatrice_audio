@@ -94,3 +94,5 @@ if __name__ == "__main__":
             speak_results(results)
         else:
             print("No valid operations detected. Please try again.")
+
+#merci
